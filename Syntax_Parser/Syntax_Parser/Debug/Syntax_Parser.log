@@ -1,0 +1,23 @@
+﻿  TableStack.cpp
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\tablestack.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\tablestack.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\tablestack.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\tablestack.cpp(108): warning C4018: “<”: 有符号/无符号不匹配
+  Syntax_Parser.cpp
+  Base.cpp
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(144): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(148): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\admin\documents\visual studio 2017\projects\syntax_parser\syntax_parser\base.cpp(219): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Syntax_Parser.vcxproj -> c:\users\admin\documents\visual studio 2017\Projects\Syntax_Parser\Debug\Syntax_Parser.exe
+  Syntax_Parser.vcxproj -> c:\users\admin\documents\visual studio 2017\Projects\Syntax_Parser\Debug\Syntax_Parser.pdb (Partial PDB)
